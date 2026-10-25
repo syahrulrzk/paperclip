@@ -172,7 +172,7 @@
     "opencode-ai": "1.18.32",
     "react-markdown": "^10.1.0",
     "remark-gfm": "^4.0.1",
-    "smol-toml": "^1.4.2"
+    "smol-toml": "^1.9.0"
   },
   "peerDependencies": {
     "react": ">=18",
@@ -198,7 +198,7 @@
     "react-dom": "^19.2.7",
     "tsx": "^4.23.12",
     "typescript": "^7.0.2",
-    "vite": "^6.1.0",
-    "vitest": "^4.1.11"
+    "vite": "^6.4.4",
+    "vitest": "^5.0.5"
   }
 }
